@@ -17,6 +17,7 @@
  },
   "scripts": {
     "postinstall": "bower update",
-    "prestart": "npm update"
+    "prestart": "npm update",
+    "start": "http-server -a localhost -p 8080 -c-1 app/ "
   }
 }

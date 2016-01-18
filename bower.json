@@ -1,6 +1,6 @@
 {
-  "name": "angular-material-starter",
-  "description": "A starter project for AngularJS Material",
+  "name": "sorc_angular_seed",
+  "description": "A starter project for AngularJS Material with preconfigured routing",
   "version": "0.0.1",
   "homepage": "https://github.com/angular/material-start",
   "license": "MIT",
@@ -9,6 +9,7 @@
     "angular": "~1.4.8",
     "angular-animate": "~1.4.8",
     "angular-route": "~1.4.8",
-    "angular-material": "~1.0.2"
+    "angular-material": "~1.0.2",
+    "angular-aria": "~1.4.8"
   }
 }
